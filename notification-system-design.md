@@ -36,3 +36,11 @@ This ensures that more important and newer notifications appear at the top.
 ## Conclusion
 
 This project uses React state and the hooks to manage notifications efficiently and automatically updates the Top 10 priority notifications whenever new notifications arrive.
+
+
+## project output
+
+<img width="1552" height="913" alt="Screenshot 2026-06-29 125029" src="https://github.com/user-attachments/assets/6682a2c5-6afb-4905-814e-4bcc5da6a26e" />
+
+
+
